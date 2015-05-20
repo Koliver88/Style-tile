@@ -1,15 +1,15 @@
 /* Typography */
 h1 {
-	font-family: papyrus;
+	font-family: 'Old Standard TT', serif;
 }
 
 h2 { 
-	font-family: papyrus;
-	color: orange;
+	font-family: ;
+	color: 33232A;
 }
 /* Set Your Own Margin & Padding */
 h2, h3, p {
-	margin: 0;
+	margin: 10px;
 }
 
 /* Layout for Style Tile*/
@@ -34,13 +34,18 @@ section {
 }
 
 .color-1 {
-	background: red
+	background: 95C4B9;
 }
 
 .color-2 {
-	background: blue;
+	background: E6E2BA;
 	
 }
+
+.color-3 {
+	background: C2E0AA;
+}
+
 
 
 /* Show Grid */
