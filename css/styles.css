@@ -10,6 +10,7 @@ h2 {
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 10px;
+	padding: 10px;
 }
 
 /* Layout for Style Tile*/
@@ -46,7 +47,16 @@ section {
 	background: #C2E0AA;
 }
 
-
+.pattern-1 {
+	background-image: ;
+}
+.pattern-2 {
+	
+	
+}
+.pattern-3 {
+	
+} 
 
 /* Show Grid */
 .showgrid {
