@@ -4,8 +4,8 @@ h1 {
 }
 
 h2 { 
-	font-family: ;
-	color: 33232A;
+	font-family: 
+	color: #33232A;
 }
 /* Set Your Own Margin & Padding */
 h2, h3, p {
@@ -34,16 +34,16 @@ section {
 }
 
 .color-1 {
-	background: 95C4B9;
+	background: #95C4B9;
 }
 
 .color-2 {
-	background: E6E2BA;
+	background: #E6E2BA;
 	
 }
 
 .color-3 {
-	background: C2E0AA;
+	background: #C2E0AA;
 }
 
 
