@@ -4,13 +4,12 @@ h1 {
 }
 
 h2 { 
-	font-family: 
-	color: #33232A;
+	font-family: ;
+	color: 33232A;
 }
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 10px;
-	padding: 10px;
 }
 
 /* Layout for Style Tile*/
@@ -21,6 +20,7 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
 .pattern-1,
 .pattern-2,
 .pattern-3, 
@@ -47,16 +47,33 @@ section {
 	background: #C2E0AA;
 }
 
+.color-4 {
+	background: #33232A;
+}
+
 .pattern-1 {
-	background-image: ;
+	background: url("../img/lightwood.jpg");
 }
+
 .pattern-2 {
-	
-	
+	background: url("../img/tanwood.jpeg")
 }
+
 .pattern-3 {
-	
+	background: url("../img/tealwood.jpg")
 } 
+
+.imagery-1 {
+	background: url("../img/engagementphoto.jpg");
+}
+.imagery-2 {
+	background: url("../img/field2.jpg");
+}
+.imagery-3 {
+	background: url("../img/field3.jpg");
+}
+
+
 
 /* Show Grid */
 .showgrid {
